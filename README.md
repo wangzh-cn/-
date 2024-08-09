@@ -1,2 +1,2 @@
 小说列表
-1《哄着你呀》
+ [《哄着你呀》](C:\Users\wang\Desktop\new\novel\novel\哄着你呀.txt)
